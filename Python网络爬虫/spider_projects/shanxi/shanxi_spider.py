@@ -1,7 +1,5 @@
 # -*- coding: UTF-8 -*-
 """
-Project -> File: Spider -> shanxi_spider
-Author: cer0
 Date: 2020-07-19 10:25
 Description:
     爬取山西省政府山西要闻
